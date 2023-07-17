@@ -1,0 +1,19 @@
+# Ignore bin and obj folders
+**/bin/
+**/obj/
+
+# Ignore NuGet packages
+*.nupkg
+
+# Ignore Visual Studio files
+*.suo
+*.user
+*.vs/
+*.vscode/
+
+# Ignore logs
+*.log
+
+# Ignore build artifacts
+*.exe
+*.dll
